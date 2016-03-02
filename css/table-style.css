@@ -1,0 +1,9 @@
+  #table-scroll {
+    height:400px;
+    overflow:auto;  
+    margin-top:20px;
+  }
+
+  .start-column{
+    width:20%;
+  }
